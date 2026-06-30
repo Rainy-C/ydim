@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YDim</string>
+    <string name="tile_name">极暗模式</string>
+    <string name="tile_enabled">已开启</string>
+    <string name="tile_disabled">已关闭</string>
+    <string name="xposed_description">极暗模式控制中心磁贴：支持 LSPosed、Root、ADB 特殊授权与 Shizuku。</string>
+</resources>
