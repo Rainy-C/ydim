@@ -5,6 +5,10 @@ plugins {
 }
 
 android {
+    buildFeatures {
+        aidl = true
+    }
+
     namespace = "com.yucve.ydim"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
